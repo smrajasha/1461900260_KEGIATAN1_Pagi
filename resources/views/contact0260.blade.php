@@ -25,7 +25,7 @@
             <h2>Contact</h2>
             <h3>Email       : raja.biz@outlook.com</h3>
             <h3>NoTelp      : 089635996054</h3>
-            <h3>Instagram   : raja.biz@outlook.com</h3>
+            <h3>Instagram   : smrajasha</h3>
         </div>
 
     </body>
